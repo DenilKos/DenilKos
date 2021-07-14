@@ -7,6 +7,7 @@
         background-color: var(--l-page-back-color-desktop) !important;
         background-image: var(--background-main) !important;
         background-repeat: no-repeat;
+        background-attachment: fixed;
     }
 
         body::before {
