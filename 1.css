@@ -2583,10 +2583,7 @@
         flex-basis: calc(80% - 40px);
     }
 }
-.p-user_history-index .history-page .history-interval p .date {
-visibility: hidden;
-position: relative;
-}
+
 
 :root {
     --font-main: var(--main-font);
@@ -2601,3 +2598,7 @@ position: relative;
     --blue-color: #0074d9;
 }
 
+.p-user_history-index .history-page .history-interval p .date {
+visibility: hidden;
+position: relative;
+}
