@@ -1433,9 +1433,7 @@
         border: 1px solid var(--tile-border-color);
     }
 
-        .p-profiles .profile-head .c-brief .avatar img {
-            visibility: hidden;
-        }
+        
 
     .p-clubs-index .b-club {
         width: 100% !important;
