@@ -1448,6 +1448,9 @@
         border: 2px dashed var(--tile-border-color);
         border-radius: 3px;
     }
+    .p-profiles .profile-head .c-brief .avatar img {
+            visibility: hidden;
+        }
 
         .b-dropzone:hover {
             border-color: var(--quat-text-color);
