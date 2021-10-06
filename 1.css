@@ -2217,6 +2217,8 @@
     .headline, .midheadline, .subheadline {
         padding-top: 2px;
         padding-bottom: 2px;
+        color: #fff;
+        background-color: #fc640a;
     }
 
     .profile-actions .settings::before, .profile-actions .ban::before, .profile-actions .mail::before, .profile-actions .ignore-add::before, .profile-actions .fav-add::before, .profile-actions .talk::before {
