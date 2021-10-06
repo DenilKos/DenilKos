@@ -383,8 +383,8 @@
     }
 
     .headline, .midheadline, .subheadline {
-        background-color: var(--headline-color);
-        color: black;
+        background-color: #fc640a;
+        color: white;
         border-radius: 1.5px;
         border-left-color: #f0f0f0c0;
         font-size: 16px;
